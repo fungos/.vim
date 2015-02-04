@@ -1,0 +1,3 @@
+source ~/.vim/vimfiles/vundle.vim
+source ~/.vim/vimfiles/settings.vim
+source ~/.vim/vimfiles/filetype.vim
