@@ -15,7 +15,7 @@ set ignorecase
 set smartcase
 set ruler
 set history=1000
-set backup
+set nobackup
 set nocursorline
 set ff=unix
 set encoding=utf-8
